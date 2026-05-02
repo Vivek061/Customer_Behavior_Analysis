@@ -62,18 +62,16 @@ Certain product categories dominate sales volume
 Repeat buyers show higher engagement and subscription likelihood
 
 ▶️ How to Run the Project
-1. Clone Repository
-git clone https://github.com/your-username/customer-behavior-analysis.git
-2. Run Python Analysis
+1. Run Python Analysis
 Open Customer_shopping_data.ipynb
 Install required libraries:
 pip install pandas numpy matplotlib seaborn
 Run all cells
-3. Run SQL Queries
+2. Run SQL Queries
 Import dataset into PostgreSQL / MySQL / SQL Server
 Execute:
 customer_behavior_sql_queries.sql
-4. Open Dashboard
+3. Open Dashboard
 Open Customer Behavior Dashboard.pbix in Power BI Desktop
 5. View Presentation
 Open Gamma presentation or exported PPT
